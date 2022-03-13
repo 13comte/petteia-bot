@@ -33,7 +33,7 @@ simplify implementation for this, where the actual game interface and engine may
   * [*Author & Contact*](#author-and-contact)
   * [*Version History*](#version-history)
 ---
-
+<!--
 ## Getting Started
 
 ### Dependencies
@@ -62,8 +62,6 @@ git clone https://github.com/13comte/petteia-bot.git
 * Install the program dependencies
 ```pip install -r requirements.txt```
 
-
-<!--
 ### Executing program
 !!! SECTION TO BE COMPLETED SOON !!!
 * If you do not already have Python installed on your computer, download the appropriate file for your operating system at the following link:
